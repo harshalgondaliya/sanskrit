@@ -1,0 +1,7 @@
+README.md
+setup.py
+SanskritAPI.egg-info/PKG-INFO
+SanskritAPI.egg-info/SOURCES.txt
+SanskritAPI.egg-info/dependency_links.txt
+SanskritAPI.egg-info/requires.txt
+SanskritAPI.egg-info/top_level.txt
