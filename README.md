@@ -1,3 +1,3 @@
-# sanskrit
+# sanskrit .
 
-working Hard®️.✨
+Working Hard
